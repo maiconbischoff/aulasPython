@@ -1,5 +1,5 @@
 #import aula7_televisao
-from aula7_televisao import  Televisao
+from aula7_televisao import Televisao
 from aula7_calculadora1 import Calculadora
 from aula8_contador_letras import contador_letras, teste
 
